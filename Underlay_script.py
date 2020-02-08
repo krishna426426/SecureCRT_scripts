@@ -2,7 +2,6 @@
 # $interface = "1.0"
 
 #
-# Author: Anand Kanani
 #
 # Purpose:
 # This script demonstrates resets the devices to default config. 
